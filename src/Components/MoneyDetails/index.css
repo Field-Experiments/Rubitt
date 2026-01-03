@@ -19,9 +19,9 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  background-color: #ecfccb;
+  background-color: white;
   width: 100%;
-  border: 1px solid #84cc16;
+  border: 1px solid black;
   border-radius: 16px;
   margin-bottom: 16px;
 }
@@ -72,9 +72,9 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  background-color: #cffafe;
+  background-color: white;
   width: 100%;
-  border: 1px solid #06b6d4;
+  border: 1px solid black;
   border-radius: 16px;
   margin-bottom: 16px;
 }
@@ -90,10 +90,10 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  background-color: #ede9fe;
+  background-color: white;
   width: 100%;
   min-width: 200px;
-  border: 1px solid #7c3aed;
+  border: 1px solid black;
   border-radius: 16px;
   margin-bottom: 16px;
 }

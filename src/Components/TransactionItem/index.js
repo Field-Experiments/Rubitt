@@ -18,11 +18,11 @@ const TransactionItem = props => {
           className="delete-button"
           type="button"
           onClick={onDeleteTransaction}
-          data-testid="delete"
+          
         >
           <img
             className="delete-img"
-            src="https://assets.ccbp.in/frontend/react-js/money-manager/delete.png"
+            src="https://res.cloudinary.com/dy05m6a1p/image/upload/v1767421703/Screenshot_396_a4euwk.png"
             alt="delete"
           />
         </button>
