@@ -41,6 +41,7 @@ class App extends Component {
               <div className="money-manager-container">
                 <MoneyManager />
               </div>
+              <p>Hello</p>
           </div>
 
       </div>
