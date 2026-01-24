@@ -1,0 +1,14 @@
+.nav-links{
+    display: flex;
+    flex-direction: column;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+li{
+    cursor: pointer;
+    color: white;
+    margin-top: 4%;
+    margin-left: 8%;
+    font-size: large;
+    list-style-type: none;
+}
